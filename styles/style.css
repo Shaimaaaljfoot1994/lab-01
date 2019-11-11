@@ -1,0 +1,246 @@
+
+@viewport {
+    width: device-width;
+    zoom: 1;
+}
+
+.box {
+    float: left;
+    box-sizing: border-box;
+}
+
+.box-footer {
+    float: right;
+    box-sizing: border-box;
+}
+.shaimaa {
+    overflow: auto;
+  }
+
+
+
+
+.a {
+    background-color: rgba(24, 56, 61, 0.5);
+}
+.b {
+    background-color: rgb(255, 81, 0, 0.5);
+}
+.c{
+    background-color: rgba(212, 18, 18, 0.986);
+
+    width: 480px;
+    height: 125px;
+    line-height: 125px;
+    text-align: center;
+
+  
+}
+.d{
+    background-color: rgba(227, 231, 16, 0.89);
+
+    width: 480px;
+    height: 125px;
+    line-height: 125px;
+    text-align: center;
+
+   
+}
+.e{
+    background-color: rgba(20, 221, 236, 0.856);
+    width: 240px;
+    height: 250px;
+    line-height: 250px;
+    text-align: center; 
+}
+.f{
+    background-color:  rgba(223, 17, 161, 0.5);
+    width: 240px;
+    height: 250px;
+    line-height: 250px;
+    text-align: center; 
+}
+.g{
+    background-color: rgba(137, 6, 224, 0.5);
+    width: 240px;
+    height: 250px;
+    line-height: 250px;
+    text-align: center; 
+}
+.h{
+    background-color: rgba(17, 228, 17, 0.5);
+    width: 240px;
+    height: 250px;
+    line-height: 250px;
+    text-align: center; 
+}
+.i{
+    background-color:  rgba(44, 14, 214, 0.5);
+    width: 240px;
+    height: 250px;
+    line-height: 250px;
+    text-align: center; 
+}
+
+@media all and (min-width: 768px) {
+   
+    
+    .a {
+        background-color: rgb(13, 152, 233);
+    }
+    .b {
+        background-color: rgb(243, 23, 23);
+    }
+    .c{
+        background-color: rgb(255, 217, 0);
+
+        width: 380px;
+        height: 200px;
+        line-height: 200px;
+        text-align: center;
+
+      
+    }
+    .d{
+        background-color: rgb(81, 255, 0);
+
+        width: 380px;
+        height: 200px;
+        line-height: 200px;
+        text-align: center;
+
+         
+    }
+    .e{
+        background-color: rgb(20, 222, 236);
+        width: 190px;
+        height: 250px;
+        line-height: 250px;
+        text-align: center;
+    }
+    .f{
+        background-color:  rgb(71, 74, 212);
+        width: 190px;
+        height: 250px;
+        line-height: 250px;
+        text-align: center;
+    }
+    .g{
+        background-color: rgb(153, 0, 255);
+        width: 190px;
+        height: 250px;
+        line-height: 250px;
+        text-align: center;
+    }
+    .h{
+        background-color: rgb(245, 18, 131);
+        width: 190px;
+        height: 250px;
+        line-height: 250px;
+        text-align: center;
+    }
+    .i{
+        background-color:  rgb(78, 47, 22);
+        width: 190px;
+        height: 250px;
+        line-height: 250px;
+        text-align: center;
+    }
+
+}
+
+
+  body {
+    width: 480px;
+    height: 765px;
+    background-color: #ccc;
+}
+header {
+    width: 480px;
+    height: 150px;
+    line-height: 150px;
+    text-align: center;           
+}
+.footer {
+    width: 480px;
+    height: 125px;   
+    line-height: 125px;
+    text-align: center;   
+}
+section {
+    width: 480px;
+    height: 150px;
+    line-height: 150px;
+    text-align: center; 
+}
+main {
+    width: 480px;
+    height: 750px;     
+}
+
+@media all and (min-width: 768px) {
+    body {
+            width: 960px;
+            height: 775px;
+            background-color: #ccc;
+        }
+        header {
+            width: 960px;
+            height: 100px;
+            line-height: 100px;
+            text-align: center;           
+        }
+        .footer {
+            width: 760px;
+            height: 150px;   
+            line-height: 150px;
+            text-align: center;   
+        }
+        section {
+            width: 200px;
+            height: 600px;
+            line-height: 600px;
+            text-align: center; 
+        }
+        main {
+            width: 760px;
+            height: 450px;  
+        }
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
